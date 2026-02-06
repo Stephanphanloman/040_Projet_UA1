@@ -69,13 +69,14 @@ projet_fleuriste/
 
 Le travail a été réparti de la manière suivante :
 
-- **Elhadji**
+**Elhadji**
  - Développement CSS
  - Collabaration JS
  - Définition du contenu et des produits
  - Validation de l’interface utilisateur
 
-- **Stephan**
+
+**Stephan**
  - Développement HTML
  - Collaboration JS
  - Gestion du Dépot GitHub et du versionnement
