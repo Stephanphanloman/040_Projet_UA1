@@ -17,7 +17,7 @@ Les objectifs de ce projet sont les suivants :
 - Structurer correctement un projet web (HTML / CSS / JavaScript)
 - Mettre en place une boutique avec :
   - une liste de produits
-  - un système de panier 🛒
+  - un système de panier 
 - Utiliser Git et GitHub pour la gestion de versions
 
 ---
@@ -33,7 +33,6 @@ Le projet a été réalisé en plusieurs étapes :
 3. **Mise en forme avec CSS**
    - grille responsive
    - animations hover
-   - adaptation mobile avec media queries
 4. **Ajout d’interactivité avec JavaScript**
    - gestion du panier
    - filtres dynamiques (prix et catégories)
@@ -71,17 +70,17 @@ Le travail a été réparti de la manière suivante :
 
 **Elhadji**
  - Développement CSS
- - Collabaration JS
  - Définition du contenu et des produits
- - Validation de l’interface utilisateur
-
 
 **Stephan**
  - Développement HTML
- - Collaboration JS
  - Gestion du Dépot GitHub et du versionnement
  - Écrire le fichier README.MD
 
+**Arole**
+  - Développement JS
+  - Modification et vérification du code
+  - Validation de l’interface utilisateur
 ---
 
 © 2026 – Maître Fleuriste Elhadji & Stephan
