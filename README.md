@@ -1,4 +1,4 @@
-# Maître Fleuriste Elhadji & Stephan 
+# Maîtres Fleuristes Elhadji, Stephan & Arole 
 
 ## 1. Contexte du projet
 
