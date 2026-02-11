@@ -3,18 +3,20 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Maître Fleuriste Elhadji & Stephan</title>
+  <title>Maîtres Fleuristes Elhadji, Stephan & Arole</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
 <header>
-  <h1>Maître Fleuriste Elhadji & Stephan</h1>
+  <h1>Maîtres Fleuristes Elhadji, Stephan & Arole</h1>
   <nav>
     <a href="#">Magasiner</a>
     <a href="#">Services</a>
     <a href="#">Réalisations</a>
     <a href="#">Nous joindre</a>
+
+    <button id="cart-btn">🛒 Panier (<span id="cart-count">0</span>)</button>
   </nav>
 </header>
 
@@ -25,22 +27,22 @@
 
 <section class="products">
   <div class="product">
-    <img src="img/" alt="Bouquet floral signature" />
+    <img src="img/Bouquet.jpg" alt="Bouquet floral signature" />
     <h3>Bouquet Signature</h3>
     <span>45.00 $ CAD</span>
   </div>
   <div class="product">
-    <img src="img/" alt="Plante intérieure premium" />
+    <img src="img/Interieur.jpg" alt="Plante intérieure premium" />
     <h3>Plante intérieure premium</h3>
     <span>32.00 $ CAD</span>
   </div>
   <div class="product">
-    <img src="img/" alt="Vase décoratif" />
+    <img src="img/Vase.jpg" alt="Vase décoratif" />
     <h3>Vase décoratif</h3>
     <span>39.00 $ CAD</span>
   </div>
   <div class="product">
-    <img src="img/" alt="Arrangement floral" />
+    <img src="img/arrangement.jpg" alt="Arrangement floral" />
     <h3>Arrangement floral</h3>
     <span>55.00 $ CAD</span>
   </div>
@@ -64,6 +66,17 @@
   </div>
 </section>
 
+<div id="cart-modal" class="cart-modal">
+  <h3>Votre panier</h3>
+
+  <div id="cart-items"></div>
+
+  <div class="cart-total">
+    Total : <span id="cart-total">0.00</span> $
+  </div>
+</div>
+
+
 <footer>
   <div class="footer-grid">
     <div>
@@ -84,7 +97,7 @@
       <a href="#">info@maitrefleuriste.ca</a>
     </div>
   </div>
-  <div class="copyright">© 2026 Maître Fleuriste Elhadji & Stephan</div>
+  <div class="copyright">© 2026 Maîtres Fleuristes Elhadji, Stephan & Arole</div>
 </footer>
 
 </body>
