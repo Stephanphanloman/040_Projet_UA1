@@ -3,7 +3,7 @@
 ## 1. Contexte du projet
 
 Ce projet a été réalisé dans le cadre du cours **UA1 – Communication en Entreprise**.  
-Il consiste à concevoir le site web vitrine d’une boutique fictive de fleurs nommée **Maître Fleuriste Elhadji & Stephan**.
+Il consiste à concevoir le site web vitrine d’une boutique fictive de fleurs nommée **Maître Fleuriste Elhadji, Stephan & Arole **.
 
 L’objectif principal était de créer une interface moderne, claire et responsive, inspirée d’un site e-commerce existant, tout en respectant les bonnes pratiques du développement web (séparation des fichiers, lisibilité du code, interactivité et communication).
 
